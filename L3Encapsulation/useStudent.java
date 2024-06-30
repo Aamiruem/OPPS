@@ -1,4 +1,4 @@
-package OPPS.Encapsulation;
+package OPPS.L3Encapsulation;
 
 public class useStudent {
 	public static void main(String[] args) {

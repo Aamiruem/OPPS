@@ -1,4 +1,4 @@
-package OPPS.Encapsulation;
+package OPPS.L3Encapsulation;
 
 class Student {
 	private int roll;

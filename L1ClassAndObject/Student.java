@@ -1,4 +1,4 @@
-package OPPS.ClassAndObject;
+package OPPS.L1ClassAndObject;
 
 public class Student {
 	int roll;
