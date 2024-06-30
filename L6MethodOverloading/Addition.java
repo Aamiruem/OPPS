@@ -49,4 +49,18 @@ public class Addition {
         // same as below
         return s1+s2;
     }
+    public void show(int age, String name){
+        System.out.println("Age = " + age);
+        System.out.println("Name = " + name);
+    }
+
+
+    public void show(String name, int age){
+        System.out.println();
+        
+        System.out.println("Name = " + name);
+        
+
+        System.out.println("Age = " + age); // execute on the basis of order of argument
+    }
 }
