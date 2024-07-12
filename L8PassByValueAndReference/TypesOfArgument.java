@@ -32,7 +32,7 @@ in java we can pass two types of arguments to a methods:
 a. variables(Primitive data type)
 b. object/ Array reference
 
-Both the types of arguments are always passed using call/pass by value
+Both the types of arguments are always passed using call/pass by value 
               */
 
 package OPPS.L8PassByValueAndReference;
