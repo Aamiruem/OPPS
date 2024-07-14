@@ -6,6 +6,6 @@ class myMath{
 }
 public class AddStatic {
     public static void main(String[] args) {
-        System.out.println("sum of 10 and 20 is " + myMath.add(10, 20));
+        System.out.println("sum of 10 and 20 is = " + myMath.add(10, 20));
     }
 }

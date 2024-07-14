@@ -26,8 +26,5 @@ public class Statics {
         Demo.b = 60;
 
         System.out.println(Demo.b);
-
-
-
     }
 }
