@@ -5,6 +5,7 @@ class Demo{
 
 }
 public class Statics {
+    @SuppressWarnings("static-access")
     public static void main(String[] args) {
         Demo d1 = new Demo();
         Demo d2 = new Demo();
@@ -28,3 +29,16 @@ public class Statics {
         System.out.println(Demo.b);
     }
 }
+
+
+
+//these both are instance variable int a; and int b;
+
+// int a; 
+// int b;
+
+//1. They are closely Associated with the object of the class
+
+//2. They arrive in memory only when an objects arrives.
+
+//3. They have as many copies created as we have created objects of the class.
